@@ -1,17 +1,20 @@
 # Welcome to Sun Grower! <br>
 This is my first attempt at learning JavaScript. <br>
-I made this using nashallery's guide here: https://github.com/nasha-wanich/beginner-tutorial
+I made this using the guide here: https://github.com/nasha-wanich/beginner-tutorial
+<br>
 <br>
 
 # What is "Sun Grower? <br>
 A play on words between sunflower and grow <br>
 Keep clicking to watch your sunflower grow
 <br>
+<br>
 
-# Resources <br>
+# Languages <br>
 - JavaScript
 - HTML 
 - CSS
+<br>
 <br>
 
 # Images
