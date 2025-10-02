@@ -8,25 +8,12 @@ const images = [
     './assets/sequence7.png',
     './assets/sequence8.png',
 ];
-
-// =============================================
-// STEP 2: Reference HTML elements 
-// =============================================
-// Connect to the elements we need to change
 const imageContent = document.querySelector('.image-content');  // Image container
 const mainButton = document.getElementById('main-button');      // Image switch button
 const finalMessage = document.querySelector('.final-message');  // Final message
 
-// =============================================
-// STEP 3: Track what image we're at 
-// =============================================
-// Start with the first image (index 0)
 let currentIndex = 0;
 
-// =============================================
-// STEP 4: Update image function 
-// =============================================
-// Function to change images with fade effect
 function updateImage() {
   // Fade out current image
   imageContent.style.opacity = 0;
@@ -45,16 +32,8 @@ function updateImage() {
   };
 }
 
-// =============================================
-// STEP 5: Initial image display 
-// =============================================
-// Show first image when page loads
 updateImage();
 
-// =============================================
-// STEP 6: Button click handler 
-// =============================================
-// Change image when button is clicked
 mainButton.addEventListener('click', () => {
   // Go to next image
   currentIndex++;

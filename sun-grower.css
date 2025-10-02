@@ -53,7 +53,7 @@
   /* Container styles */
   .container {
     position: relative;
-    width: 420px;
+    width: 480px;
     border: var(--border-width-main) solid var(--color-border);
     border-radius: var(--border-radius);
     background: var(--color-main-container-background);
@@ -68,8 +68,8 @@
   /* Inner container, where the images */ 
   .inner-container {
     position: relative;
-    width: 100%;
-    aspect-ratio: 430 / 280;
+    width: 500px;
+    aspect-ratio: 430 / 500;
     border: var(--border-width-inner) solid var(--color-border);
     border-radius: var(--border-radius);
     background: var(--color-inner-container-background);
