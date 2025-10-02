@@ -5,7 +5,6 @@ I made this using the guide here: https://github.com/nasha-wanich/beginner-tutor
 <br>
 
 # What is "Sun Grower? <br>
-A play on words between sunflower and grow <br>
 Keep clicking to watch your sunflower grow
 <br>
 <br>
