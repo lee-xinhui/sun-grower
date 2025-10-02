@@ -15,7 +15,7 @@ Keep clicking to watch your sunflower grow
 <br>
 
 # Images
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/c4ec3003-00bd-4f76-a81d-c2ab66d944d2" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/879723bf-0e57-4136-b775-50e2df73e8c5" />
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/f57ee3a8-0ff7-4879-ae1f-c042aebdf43d" />
 <br>
 all art here is done by me 
