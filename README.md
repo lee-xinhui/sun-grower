@@ -11,3 +11,8 @@ Keep clicking to watch your sunflower grow
 - JavaScript
 - HTML 
 - CSS
+
+# Images
+<img width="561" height="744" alt="image" src="https://github.com/user-attachments/assets/c4ec3003-00bd-4f76-a81d-c2ab66d944d2" />
+<img width="561" height="744" alt="image" src="https://github.com/user-attachments/assets/f57ee3a8-0ff7-4879-ae1f-c042aebdf43d" />
+all art here is done by me 
