@@ -1,17 +1,15 @@
 # Welcome to Sun Grower!
 This is my first attempt at learning JavaScript. <br>
-I made this using nashallery's guide here: https://github.com/nasha-wanich/beginner-tutorial <br>
-Images are drawn by me
+I made this using this guide here: https://github.com/nasha-wanich/beginner-tutorial <br>
 
 # What is "Sun Grower? <br>
-A play on words between sunflower and grow <br>
 Keep clicking to watch your sunflower grow
 
-# Resources <br>
+# Languages <br>
 - JavaScript
 - HTML 
 - CSS
 
-# Images 
-![alt text](image.png)
-![alt text](image-1.png)
+# Images - Art drawn by me
+<img width="400" height="600" alt="image" src="/displayImages/image1.png" />
+<img width="400" height="600" alt="image" src="/displayImages/image2.png" />
