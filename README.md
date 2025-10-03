@@ -11,3 +11,7 @@ Keep clicking to watch your sunflower grow
 - JavaScript
 - HTML 
 - CSS
+
+# Images 
+![alt text](image.png)
+![alt text](image-1.png)
