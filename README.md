@@ -15,5 +15,4 @@ Keep clicking to watch your sunflower grow
 - CSS
 
 # Images - Art drawn by me
-<img width="300" height="500" alt="image" src="/displayImages/image1.png" />
-<img width="300" height="500" alt="image" src="/displayImages/image2.png" />
+<img width="300" height="500" alt="image" src="/displayImages/image1.png" /> <img width="300" height="500" alt="image" src="/displayImages/image2.png" />
