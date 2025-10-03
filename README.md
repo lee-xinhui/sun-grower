@@ -1,9 +1,13 @@
-# Welcome to Sun Grower!
+# Welcome to Sun Grower! <br>
 This is my first attempt at learning JavaScript. <br>
-I made this using this guide here: https://github.com/nasha-wanich/beginner-tutorial <br>
+I made this using the guide here: https://github.com/nasha-wanich/beginner-tutorial
+<br>
+<br>
 
 # What is "Sun Grower? <br>
 Keep clicking to watch your sunflower grow
+<br>
+<br>
 
 # Languages <br>
 - JavaScript
