@@ -161,6 +161,16 @@
     transform: scale(1.05);
   }
 
+  #main-button:active{
+    background-color: #d7ded8;
+    transform: translateY(4px);
+  }
+
+  #water-again:active {
+    background-color: #b3c1b3;
+    transform: translateY(4px);
+  }
+
   .final-message {
     display: none; /* Hide it initially */
     color: var(--color-message-text);
