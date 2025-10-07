@@ -1,6 +1,6 @@
 # 🌻 Welcome to Sun Grower! <br>
 This is my first attempt at learning JavaScript. <br>
-I made this using Nasha's guide here: https://github.com/nasha-wanich/beginner-tutorial
+I made this using Nasha's [guide](https://github.com/nasha-wanich/beginner-tutorial)
 <br>
 <br>
 
